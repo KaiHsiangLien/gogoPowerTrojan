@@ -9,7 +9,7 @@ mac: https://drive.google.com/open?id=0B_rze85rKHEFaUpjUFlqRk9qcTg
 win: https://drive.google.com/open?id=0B_rze85rKHEFeFR2Zml5SGZDZVE  
 
 Screenshot:  
-<img src="https://github.com/KaiHsiangLien/gogoPowerTrojan/blob/master/race1.png" width="25%" height="25%">  
-<img src="https://github.com/KaiHsiangLien/gogoPowerTrojan/blob/master/race2.png" width="25%" height="25%">  
-<img src="https://github.com/KaiHsiangLien/gogoPowerTrojan/blob/master/race3.png" width="25%" height="25%">  
-<img src="https://github.com/KaiHsiangLien/gogoPowerTrojan/blob/master/race4.png" width="25%" height="25%">  
+<img src="https://github.com/KaiHsiangLien/gogoPowerTrojan/blob/master/race1.png" width="50%" height="50%">  
+<img src="https://github.com/KaiHsiangLien/gogoPowerTrojan/blob/master/race2.png" width="50%" height="50%">  
+<img src="https://github.com/KaiHsiangLien/gogoPowerTrojan/blob/master/race3.png" width="50%" height="50%">  
+<img src="https://github.com/KaiHsiangLien/gogoPowerTrojan/blob/master/race4.png" width="50%" height="50%">  
